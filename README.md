@@ -36,9 +36,9 @@ I’m also writing daily blogs where I explain what I learned each day.
 
 I’ll add the links here:
 
-Day 0 - https://relearncode.hashnode.dev/dive-into-my-python-learning-adventure
+Day 0 - https://lovishjaswal.hashnode.dev/day-00
 
-Day 1 - https://relearncode.hashnode.dev/day-01
+Day 1 - https://lovishjaswal.hashnode.dev/day-01
 
 
 ---
