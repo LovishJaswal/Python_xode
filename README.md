@@ -38,7 +38,7 @@ I’ll add the links here:
 
 Day 0 - https://relearncode.hashnode.dev/dive-into-my-python-learning-adventure
 
-Day 1 - https://day0001.hashnode.dev/pythons-inner-working-an-overview 
+Day 1 - https://day0001.hashnode.dev/pythons-inner-working-an-overview
 
 
 ---
