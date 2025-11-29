@@ -31,7 +31,7 @@ It’s a journey — not a race.
 
 ---
 
-## 📅 Daily Blog Logs  
+📅 Daily Blog Logs
 I’m also writing daily blogs where I explain what I learned each day.
 
 I’ll add the links here:
@@ -40,6 +40,7 @@ Day 0 - https://lovishjaswal.hashnode.dev/day-00
 
 Day 1 - https://lovishjaswal.hashnode.dev/day-01
 
+Day 2 - https://lovishjaswal.hashnode.dev/day-02
 
 ---
 

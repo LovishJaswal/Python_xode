@@ -5,6 +5,11 @@ def print_name(x):
 
 print_name("Tanisha")
 
+def print_age(y):
+    print(y)
+
+print_age(21)
+
 # When you run a Python file, Python first reads your source code and converts it into bytecode ,
 # which is a low-level, platform-independent version of your program that the Python Virtual Machine (PVM)
 # can execute. To save time in future runs, Python stores this bytecode inside the __pycache__ folder
