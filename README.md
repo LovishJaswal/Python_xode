@@ -42,6 +42,9 @@ Day 1 - https://lovishjaswal.hashnode.dev/inner-working
 
 Day 2 - https://lovishjaswal.hashnode.dev/a-complete-introduction-to-python-shell
 
+Day 3 - https://lovishjaswal.hashnode.dev/how-mutable-and-immutable-objects-work-in-python
+
+
 ---
 
 ## 🚀 Long-Term Vision  
