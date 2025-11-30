@@ -9,6 +9,7 @@ def print_age(y):
     print(y)
 
 print_age(21)
+print_age(22)
 
 # When you run a Python file, Python first reads your source code and converts it into bytecode ,
 # which is a low-level, platform-independent version of your program that the Python Virtual Machine (PVM)
