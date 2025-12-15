@@ -44,6 +44,8 @@ Day 2 - https://lovishjaswal.hashnode.dev/a-complete-introduction-to-python-shel
 
 Day 3 - https://lovishjaswal.hashnode.dev/how-mutable-and-immutable-objects-work-in-python
 
+Day 4 - https://lovishjaswal.hashnode.dev/inner-working-of-python-pt-2
+
 
 ---
 
